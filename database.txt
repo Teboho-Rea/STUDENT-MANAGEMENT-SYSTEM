@@ -1,0 +1,11 @@
+Name: LUCKY ||Surname: SITHOLE ||Age: 22 ||Level:5||Course:ELECTRICAL ENGINEERING||Date of Birth:2003-08-18||Email Adress:luckysithole03@gmail.com||Phone Number:0730796515||Adress:12 LIBRA STREET ||Enrollment Date2024-02-22
+Name: LEBO ||Surname: KIM ||Age: 24 ||Level:4||Course:BEAUTY THERAPY||Date of Birth:2001-06-23||Email Adress:lebo07@gmail.com||Phone Number:0824581245||Adress:45 DAN SECTION ||Enrollment Date2024-02-11
+Name: THATO ||Surname: BLUE ||Age: 20 ||Level:7||Course:HUMAN RESOURCE||Date of Birth:2005-07-12||Email Adress:thatoblue@gmail.com||Phone Number:0764537601||Adress:23 DON VIN STREET ||Enrollment Date2024-02-15
+Name: LESEGO ||Surname: STEEZY ||Age: 20 ||Level:6||Course:COMPUTER SCIENCE||Date of Birth:2005-12-16||Email Adress:steezy707@gmail.com||Phone Number:06511745481||Adress:99 PIMVILLE||Enrollment Date2024-02-15
+Name: BAFANA ||Surname: JOBE ||Age: 23 ||Level:2||Course:MECHANICAL ENGINEERING||Date of Birth:2002-02-01||Email Adress:jobe204@gmail.com||Phone Number:0845245481||Adress:55 FULL MOON||Enrollment Date2025-03-01
+Name: PINKY ||Surname: WHITE ||Age: 22 ||Level:5||Course:BEAUTY THERAPY||Date of Birth:2003-05-11||Email Adress:pinkywhite@gmail.com||Phone Number:0713524537||Adress:27 STUDENT ROAD||Enrollment Date2025-02-05
+Name: THANDO ||Surname: NKOSI ||Age: 21 ||Level:4||Course:JOURNALISM||Date of Birth:2004-02-14||Email Adress:thandonkosi5@gmail.com||Phone Number:0672510090||Adress:18 ZUMA SECTION STREET||Enrollment Date2024-03-01
+Name: KHANYA ||Surname: MAQAQA ||Age: 22 ||Level:1||Course:ELECTRICAL ENGINEERING||Date of Birth:2003-01-07||Email Adress:maqaqakhanya01@gmail.com||Phone Number:0791125759||Adress:221 MNGADI SECTION||Enrollment Date2024-01-29
+Name: NALEDI ||Surname: MOFOKENG ||Age: 20 ||Level:7||Course:BEAUTY THERAPY||Date of Birth:2005-01-15||Email Adress:naledimofokeng7@gmail.com||Phone Number:0714537680||Adress:45 THOKOZA GARDENS||Enrollment Date2025-03-02
+Name: booob ||Surname: sderf ||Age: 34 ||Level:2||Course:journalism||Date of Birth:2022-04-12||Email Adress:real@gmail.com||Phone Number:0987466758||Adress:12 Vukuthu Stress||Enrollment Date2024-08-23
+Name: chris ||Surname: whyne ||Age: 31 ||Level:3||Course:computer science||Date of Birth:2004-01-23||Email Adress:jdh||Phone Number:295048||Adress:gdfdrg||Enrollment Date2-3044
